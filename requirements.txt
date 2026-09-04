@@ -1,0 +1,11 @@
+definition_version: 2
+entities:
+  customize_smoothie_app:
+    type: streamlit
+    main_file: streamlit_app_CustomizeYourSmoothie.py
+    artifacts:
+      - pyproject.toml
+      - streamlit_app_CustomizeYourSmoothie.py
+      - .streamlit/config.toml
+
+
