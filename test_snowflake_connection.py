@@ -9,7 +9,7 @@ try:
     conn = connect(
         account="GKSGURB.IK89600",
         user="IK89600",
-        private_key_file="C:\Users\deepa\rsa_key.p8",
+        private_key_file="C:\\Users\\deepa\\rsa_key.p8",
         warehouse="COMPUTE_WH",
         database="SMOOTHIES",
         schema="PUBLIC",
